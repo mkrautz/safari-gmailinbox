@@ -48,7 +48,7 @@ safari.application.addEventListener("command", function(evt) {
 }, false);
 
 safari.application.addEventListener("validate", function(evt) {
-	// Nothing
+	updateInboxCount();
 }, false);
 
 safari.extension.settings.addEventListener("change", function(evt) {
