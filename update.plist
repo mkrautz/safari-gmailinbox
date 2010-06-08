@@ -7,14 +7,14 @@
      <dict>
        <key>CFBundleIdentifier</key>
        <string>com.github.mkrautz.GMailInboxChecker</string>
-       <key>Team Identifier</key
+       <key>Team Identifier</key>
        <string>CXBDCLUHDT</string>
        <key>CFBundleVersion</key>
        <string>1</string>
        <key>CFBundleShortVersionString</key>
        <string>1.0.1</string>
        <key>URL</key>
-       <string>http://github.com/downloads/mkrautz/safari-gmailinbox/GMailInboxChecker.safariextz</string>
+       <string>http://github.com/downloads/mkrautz/safari-gmailinbox/GMailInboxChecker-1.0.1.safariextz</string>
      </dict>
    </array>
 </dict>
