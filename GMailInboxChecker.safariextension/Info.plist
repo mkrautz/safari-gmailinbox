@@ -59,6 +59,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://mkrautz.github.com/safari-gmailinbox/update.plist</string>
 	<key>Website</key>
 	<string>http://mkrautz.github.com/safari-gmailinbox/</string>
 </dict>
