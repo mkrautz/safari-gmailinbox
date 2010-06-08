@@ -10,11 +10,11 @@
        <key>Team Identifier</key>
        <string>CXBDCLUHDT</string>
        <key>CFBundleVersion</key>
-       <string>1</string>
+       <string>2</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.0.2</string>
+       <string>1.0.3</string>
        <key>URL</key>
-       <string>http://github.com/downloads/mkrautz/safari-gmailinbox/GMailInboxChecker-1.0.2.safariextz</string>
+       <string>http://github.com/downloads/mkrautz/safari-gmailinbox/GMailInboxChecker-1.0.3.safariextz</string>
      </dict>
    </array>
 </dict>
